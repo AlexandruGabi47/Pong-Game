@@ -1,0 +1,9 @@
+D:\_Programming\WFProjects\PongGame\Pong\bin\Release\Pong.exe.config
+D:\_Programming\WFProjects\PongGame\Pong\bin\Release\Pong.exe
+D:\_Programming\WFProjects\PongGame\Pong\bin\Release\Pong.pdb
+D:\_Programming\WFProjects\PongGame\Pong\obj\Release\Pong.Pong.resources
+D:\_Programming\WFProjects\PongGame\Pong\obj\Release\Pong.Properties.Resources.resources
+D:\_Programming\WFProjects\PongGame\Pong\obj\Release\Pong.csproj.GenerateResource.Cache
+D:\_Programming\WFProjects\PongGame\Pong\obj\Release\Pong.csproj.CoreCompileInputs.cache
+D:\_Programming\WFProjects\PongGame\Pong\obj\Release\Pong.exe
+D:\_Programming\WFProjects\PongGame\Pong\obj\Release\Pong.pdb
